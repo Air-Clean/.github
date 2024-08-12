@@ -114,7 +114,7 @@
     </tr>
     <tr>
         <th>🐞Bug</th>
-        <td>기능에 오류 수정</td>
+        <td>기능 오류 수정</td>
     </tr>
 </table>
 
@@ -175,36 +175,46 @@
 <table>
     <tr>
         <th>전체 개발 기간</th>
-        <td>2024.04.25 ~ 2024.06.02</td>
+        <td>2024.07.02 ~ 2024.08.13</td>
+    </tr>
+    <tr>
+        <th>문서 작성 및 피그마</th>
+        <td>2024.07.02 ~ 2024.07.08</td>
     </tr>
     <tr>
         <th>DB 작성</th>
-        <td>2024.04.25 ~ 2024.05.02</td>
+        <td>2024.07.08 ~ 2024.07.11</td>
     </tr>
     <tr>
         <th>UI 구현</th>
-        <td>2024.05.03 ~ 2024.05.23</td>
+        <td>2024.07.11 ~ 2024.08.12</td>
     </tr>
     <tr>
         <th>기능 구현</th>
-        <td>2024.05.04 ~ 2024.05.30</td>
+        <td>2024.07.11 ~ 2024.08.12</td>
     </tr>
 </table>
 
 ## 작업관리
 
-1. [discussion 을 통해 팀 전체적으로 오늘 할 일을 정합니다](https://github.com/semi-project-team/PSMC/discussions)
-2. [disscussion 을 통해 할당 받은 오늘의 과업에 대해 issue를 작성합니다](https://github.com/semi-project-team/PSMC/issues)
-3. [기능을 완수하면 각각의 기능에 맞게 브랜치를 생성후 충돌을 모두 해결한 후 master 브랜치에 merge ](https://github.com/semi-project-team/PSMC/pulls?q=is%3Apr+is%3Aclosed)
+1. [Wiki를 활용하여 매일 오전 팀원이 모여 회의록 목록을 작성니다](https://github.com/Air-Clean/airclean-spring/wiki/%ED%9A%8C%EC%9D%98%EB%A1%9D-%EB%AA%A9%EB%A1%9D)
+2. [회의를 통해 할당 받은 오늘의 과업에 대해 issue를 작성합니다 - airclean-spring](https://github.com/Air-Clean/airclean-spring/issues)
+3. [회의를 통해 할당 받은 오늘의 과업에 대해 issue를 작성합니다 - airclean-react](https://github.com/Air-Clean/airclean-reactjs/issues)
+4. [기능을 완수하면 각각의 기능에 맞게 브랜치를 생성하여 충돌을 모두 해결한 후 master 브랜치에 merge합니다 - airclean-spring](https://github.com/Air-Clean/airclean-spring/pulls)
+5. [기능을 완수하면 각각의 기능에 맞게 브랜치를 생성하여 충돌을 모두 해결한 후 master 브랜치에 merge합니다 - airclean-react](https://github.com/Air-Clean/airclean-reactjs/pulls)
 
    
 
 ## ERD
 
-![asdadfasdfdsaf](https://github.com/semi-project-team/PSMC/assets/158137025/622cefcb-b247-41fd-8d21-5261461ce243)
+<img width="1089" alt="주제영역1_LOG" src="https://github.com/user-attachments/assets/70c88b7b-30f1-4a09-bd85-062b99b3788a">
+
 
 
 ## 기능 설명
+#### 기능 한눈에 보기
+![image](https://github.com/user-attachments/assets/f233fffd-a739-4031-80f1-14c92081ff39)
+
 
 ### 1. 첫페이지
 
@@ -212,4 +222,4 @@
 
 
 ## 구체적인 코드 리뷰
-- [예약 및 수정 시간 관련 방식](https://github.com/semi-project-team/PSMC/wiki/진료-시간-및-재활-치료시간-예약하기)
+- [예시](깃허브 wiki 주소 (https://github.com/semi-project-team/PSMC/wiki/진료-시간-및-재활-치료시간-예약하기)

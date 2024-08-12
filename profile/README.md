@@ -152,19 +152,23 @@
     </tr>
     <tr>
         <th>이호준</th>
-        <td>첫화면, 회원가입, 비밀번호 수정, main page 환자 등록, 예약하기, scheduler, theralink, DB 작성</td>
+        <td>이곳에 작성</td>
     </tr>
     <tr>
         <th>서정민</th>
-        <td>mediconnect, DB 작성, ppt 제작, github 형상 관리, 노션 작성</td>
+        <td>이곳에 작성</td>
     </tr>
     <tr>
         <th>조승윤</th>
-        <td>mainpage css, mypage css 및 회원정보 수정, header 컴포넌트, navigation 컴포넌트, ppt 제작</td>
+        <td>이곳에 작성</td>
     </tr>
     <tr>
-        <th>김재중</th>
-        <td>staff, DB 작성, 오류 테스트, 노션 작성</td>
+        <th>이도아</th>
+        <td>이곳에 작성</td>
+    </tr>
+    <tr>
+        <th>최규혁</th>
+        <td>이곳에 작성</td>
     </tr>
 </table>
     

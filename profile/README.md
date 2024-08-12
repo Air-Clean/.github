@@ -83,6 +83,10 @@
         <td>java/jsx</td>
     </tr>
     <tr>
+        <th>DB</th>
+        <td>jpa</td>
+    </tr>
+    <tr>
         <th>버전 및 이슈 관리</th>
         <td>Github</td>
     </tr>
@@ -123,9 +127,9 @@
 ## 3. 프로젝트 구조
 
 ```
-└─psmc
-    ├─auth
-    ├─common
+└─AIRCLEAN-REACT
+    ├─public
+    ├─src
     │  ├─exception
     │  └─model
     │      ├─dto

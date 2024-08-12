@@ -80,11 +80,11 @@
     </tr>
     <tr>
         <th>Back</th>
-        <td>java/jsx</td>
+        <td>java/jsx, jpa</td>
     </tr>
     <tr>
         <th>DB</th>
-        <td>jpa</td>
+        <td>mySql</td>
     </tr>
     <tr>
         <th>버전 및 이슈 관리</th>

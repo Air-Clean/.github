@@ -30,8 +30,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Absensing">
-        <img src="https://avatars.githubusercontent.com/u/158137158?v=4" width="100" style="max-width: 100%;">
+      <a href="https://github.com/gyuhyeok0">
+        <img src="https://avatars.githubusercontent.com/u/153148788?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/doa0819">
+        <img src="https://avatars.githubusercontent.com/u/158136952?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
     <td>
@@ -48,7 +53,10 @@
       <a href="https://github.com/wjdals83">서정민</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Absensing">김재중</a>
+      <a href="https://github.com/Absensing">최규혁</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tmddbs9313">이도아</a>
     </td>
     <td align="center">
       <a href="https://github.com/tmddbs9313">조승윤</a>
@@ -56,6 +64,7 @@
         </tr>
     <tr>
         <td align="center">팀장</td>
+        <td align="center">Backend</td>
         <td align="center">Backend</td>
         <td align="center">Backend</td>
         <td align="center">Frontend</td>
@@ -67,11 +76,11 @@
 <table>
     <tr>
         <th>Front</th>
-        <td>HTML/CSS, Bootstrap, Thymeleaf</td>
+        <td>React, CSS, Bootstrap</td>
     </tr>
     <tr>
         <th>Back</th>
-        <td>java/javaScript</td>
+        <td>java/jsx</td>
     </tr>
     <tr>
         <th>버전 및 이슈 관리</th>

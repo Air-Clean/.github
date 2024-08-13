@@ -274,11 +274,3 @@ React (Frontend)
 #### 기능 한눈에 보기
 ![image](https://github.com/user-attachments/assets/f233fffd-a739-4031-80f1-14c92081ff39)
 
-
-### 1. 첫페이지
-
-![1](https://github.com/semi-project-team/PSMC/assets/158137025/17b1888e-8225-40f8-96ae-afe6f1f3e492)
-
-
-## 구체적인 코드 리뷰
-- [예시](깃허브 wiki 주소 (https://github.com/semi-project-team/PSMC/wiki/진료-시간-및-재활-치료시간-예약하기)

@@ -127,21 +127,62 @@
 ## 3. 프로젝트 구조
 
 ```
-└─AIRCLEAN-REACT
-    ├─public
-    ├─src
-    │  ├─exception
-    │  └─model
-    │      ├─dto
-    │      └─method
-    ├─configuration
-    │  └─handler
-    ├─mainPage
-    ├─mediConnect
-    ├─mypage
-    ├─staff
-    ├─theraLink
-    └─user
+Spring Boot (Backend)
+----------------------
+├── build/
+├── gradle/
+├── gradlew, gradlew.bat
+├── settings.gradle
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── aircleanprojectback/
+│   │   │       ├── AirCleanProjectBackApplication.java 
+│   │   │       └── restapi/
+│   │   │           ├── auth/        
+│   │   │           ├── branch/    
+│   │   │           ├── branchOrigin/
+│   │   │           ├── car/         
+│   │   │           ├── common/     
+│   │   │           ├── facility/   
+│   │   │           ├── laundry/   
+│   │   │           ├── mainpage/   
+│   │   │           ├── member/     
+│   │   │           ├── report/    
+│   │   │           ├── stock/       
+│   │   │           ├── util/      
+│   │   │           └── water/   
+│   │   └── resources/
+│   │       ├── application.yml      
+│   │       └── static/              
+└── uploads/       
+                 
+React (Frontend)
+-----------------
+├── README.md
+├── node_modules/               
+├── package-lock.json               
+├── package.json                  
+├── public/
+│   └── index.html                
+└── src/
+    ├── App.js                       
+    ├── AuthContext.js               
+    ├── Store.js                     
+    ├── api/                        
+    ├── apis/                      
+    ├── assets/                    
+    ├── common/                   
+    ├── components/                 
+    ├── data/                       
+    ├── hooks/                    
+    ├── index.js                   
+    ├── layouts/                  
+    ├── modules/                   
+    ├── pages/                    
+    ├── styles/                    
+    └── utils/                     
+
 ```
 
 충돌을 방지하기 위해서 기능 별로 역할을 분담하고 기능별로 패키지를 구성하였습니다

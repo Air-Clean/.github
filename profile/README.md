@@ -53,10 +53,10 @@
       <a href="https://github.com/wjdals83">서정민</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Absensing">최규혁</a>
+      <a href="https://github.com/gyuhyeok0">최규혁</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tmddbs9313">이도아</a>
+      <a href="https://github.com/doa0819">이도아</a>
     </td>
     <td align="center">
       <a href="https://github.com/tmddbs9313">조승윤</a>

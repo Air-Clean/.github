@@ -213,7 +213,7 @@ React (Frontend)
     </tr>
     <tr>
         <th>최규혁</th>
-        <td>지점관리(back), 세탁물관리</td>
+        <td>지점관리(back), 세탁물관리, 서버 준비 및 배포</td>
     </tr>
 </table>
     

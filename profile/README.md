@@ -197,23 +197,23 @@ React (Frontend)
     </tr>
     <tr>
         <th>이호준</th>
-        <td>이곳에 작성</td>
+        <td>재무관리, 인적자원, 차량관리, 시설물관리(back), 지점관리(front)</td>
     </tr>
     <tr>
         <th>서정민</th>
-        <td>이곳에 작성</td>
+        <td>재고관리, 시설물관리(front)</td>
     </tr>
     <tr>
         <th>조승윤</th>
-        <td>이곳에 작성</td>
+        <td>물류시스템관리</td>
     </tr>
     <tr>
         <th>이도아</th>
-        <td>이곳에 작성</td>
+        <td>보고서관리</td>
     </tr>
     <tr>
         <th>최규혁</th>
-        <td>이곳에 작성</td>
+        <td>지점관리(back), 세탁물관리</td>
     </tr>
 </table>
     
